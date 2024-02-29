@@ -5,7 +5,7 @@
 </right>
 
 ### About Me
-✨ Creating bugs since 2020<br>
+✨ Creating bugs since 2018<br>
 📚 I'm currently learning Ruby, RoR, PostgreSQL, Node, JS<br>
 🎯 Goals: I want to work in more Open Source Projects<br>
 🎲 Fun fact: I speak english so bad
@@ -86,7 +86,7 @@
 ##
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ldcmleo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ldcmleo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="120" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ldcmleo&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=2" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ldcmleo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ldcmleo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ldcmleo&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=2" height="100" alt="streak graph"  />
 </div>
