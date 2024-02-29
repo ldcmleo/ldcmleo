@@ -1,43 +1,92 @@
-<h1 align="center">Hi 👋, I'm Leonardo Castro</h1>
-<h3 align="center">Im a Backend Developer JR learning Programming by my own.</h3>
+## Hi 👋 Welcome to my profile.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ldcmleo&label=Views&color=7ab40e&style=flat" alt="ldcmleo" /> </p>
+<right>
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/38667030?s=400&u=bc2b23b086023f91e687b0bb0d13d74a748e61ca&v=4"/>
+</right>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldcmleo" alt="ldcmleo" /></a> </p>
+### About Me
+✨ Creating bugs since 2020<br>
+📚 I'm currently learning Ruby, RoR, PostgreSQL, Node, JS<br>
+🎯 Goals: I want to work in more Open Source Projects<br>
+🎲 Fun fact: I speak english so bad
 
-<p align="left"> <a href="https://twitter.com/willy_morou" target="blank"><img src="https://img.shields.io/twitter/follow/willy_morou?logo=twitter&style=for-the-badge" alt="willy_morou" /></a> </p>
+![views](https://visitor-badge.laobi.icu/badge?page_id=ldcmleo.ldcmleo)
+[![Static Badge](https://img.shields.io/badge/MixiPHP-In%20Progress-orange?logo=php&logoColor=white)](https://github.com/ldcmleo/mixiphp)
+[![](https://img.shields.io/badge/ldcmleo-GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/ldcmleo19)
 
-- 🔭 I’m currently working on [MixiPHP](https://github.com/ldcmleo/mixiphp)
+### 
 
-- 👯 I’m looking to collaborate on [Godot Engine](https://github.com/godotengine/godot)
+> Everything that irritates us about others can lead us to an understanding of ourselves.
+> 
+> Carl Gustav Jung
 
-- 🤝 I’m looking for help with [The Forgotten Server](https://github.com/otland/forgottenserver)
+### Social Media
+[![](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/willy_morou)
+[![](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/channel/UCUJILzZ500umbrRnmwd6fZQ)
+[![](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](ldcmleo19@gmail.com)
+[![](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/willy_morou/)
+[![](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge)](https://medium.com/@ldcmleo)
+[![](https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge)](https://ko-fi.com/leonardocastro)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ldcmleo](https://github.com/ldcmleo)
+### Languages
+![](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/JAVA-c4403f?style=for-the-badge)
+![](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 
-- 📝 I regularly write articles on [https://medium.com/@ldcmleo](https://medium.com/@ldcmleo)
+### Frameworks
+![](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-- 💬 Ask me about **PHP, Ruby, GDScript**
+### Tools
+![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/RubyGems-CC342D?logo=rubygems&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
 
-- 📫 How to reach me **ldcmleo19@gmail.com**
+### Databases
+![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 
-- ⚡ Random Fact **I studied a long time ago Psychology by my own**
+### Common Text Editors
+![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ldcmleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ldcmleo" height="30" width="40" /></a>
-<a href="https://twitter.com/willy_morou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willy_morou" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23227490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23227490" height="30" width="40" /></a>
-<a href="https://fb.com/leocastro17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leocastro17" height="30" width="40" /></a>
-<a href="https://instagram.com/willy_morou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="willy_morou" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ldcmleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ldcmleo" height="30" width="40" /></a>
-<a href="https://medium.com/@ldcmleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ldcmleo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@leonardocastro97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@leonardocastro97" height="30" width="40" /></a>
-</p>
+### Operating System
+![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/ArchCraft-94be79?logo=archlinux&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Arch%20Linux-1793d1?logo=archlinux&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&style=for-the-badge)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Favorite Browsers
+![](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white&style=for-the-badge)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldcmleo&show_icons=true&theme=onedark&title_color=13beaa&text_color=e3e3e3&bg_color=303030&locale=en&layout=compact" alt="ldcmleo" /></p>
+### Others
+![](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ldcmleo&show_icons=true&theme=onedark&title_color=be1e1e&text_color=e3e3e3&bg_color=303030&locale=en" alt="ldcmleo" /></p>
+##
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ldcmleo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ldcmleo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ldcmleo&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=2" height="120" alt="streak graph"  />
+</div>
