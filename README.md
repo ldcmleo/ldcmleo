@@ -43,7 +43,7 @@
 </div>
 
 ### My Workspace
-![](https://img.shields.io/badge/ArchCraft-94be79?logo=archlinux&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Archlinux-94be79?logo=archlinux&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/AMD-Ryzen%205600X-ED1C24?logo=amd&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/RAM-16GB-0ABF53?style=for-the-badge)
 ![](https://img.shields.io/badge/AMD-Radeon%20RX%206600-ED1C24?logo=amd&logoColor=white&style=for-the-badge)
