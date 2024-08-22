@@ -7,7 +7,8 @@
 🎲 Fun fact: I speak english so bad
 
 ![views](https://visitor-badge.laobi.icu/badge?page_id=ldcmleo.ldcmleo)
-[![Static Badge](https://img.shields.io/badge/MixiPHP-In%20Progress-orange?logo=php&logoColor=white)](https://github.com/ldcmleo/mixiphp)
+[![Static Badge](https://img.shields.io/badge/KockaPHP-In%20Progress-red?logo=php&logoColor=white)](https://github.com/ldcmleo/kockaphp)
+[![Static Badge](https://img.shields.io/badge/MixiPHP-Deprecated-red?logo=php&logoColor=white)](https://github.com/ldcmleo/mixiphp)
 [![](https://img.shields.io/badge/ldcmleo-GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/ldcmleo19)
 
 ### 
