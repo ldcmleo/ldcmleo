@@ -31,3 +31,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,blender,css,debian,discord,docker,git,github,go,godot,html,htmx,js,jquery,laravel,linux,lua,md,mysql,neovim,nodejs,npm,obsidian,php,postgres,powershell,py,rails,react,redis,ruby,sqlite,tailwind,vscode,windows&theme=light&perline=9)](https://skillicons.dev)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66dba59ec46f68d052b131f9?variant=dark)](https://roadmap.sh)
+
