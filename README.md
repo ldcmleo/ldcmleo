@@ -30,6 +30,3 @@
 <h3>Common technologies</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=css,docker,git,github,go,godot,html,htmx,js,jquery,laravel,linux,mysql,nodejs,npm,php,postgres,rails,ruby,sqlite,tailwind,vscode&theme=light&perline=9)](https://skillicons.dev)
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66dba59ec46f68d052b131f9?variant=dark)](https://roadmap.sh)
-
