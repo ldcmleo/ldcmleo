@@ -63,8 +63,6 @@
 ![Static Badge](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/-VSCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=css,docker,git,github,go,godot,html,htmx,js,jquery,laravel,linux,mysql,nodejs,npm,php,postgres,rails,ruby,sqlite,tailwind,vscode&theme=light)](https://skillicons.dev)
-
 > Everything that irritates us about others can lead us to an understanding of ourselves.
 > 
 > Carl Gustav Jung
