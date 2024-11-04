@@ -11,16 +11,6 @@
 
 ### 
 
-<div>
-  <h3>Social Media</h3>
-  <a href="https://www.instagram.com/willy_morou/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" />
-  </a>
-  <a href="https://ko-fi.com/leonardocastro">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" />
-  </a>
-</div>
-
 <h3>Learning</h3>
 
 <h4>Frontend</h4>
