@@ -7,7 +7,6 @@
 🎲 Fun fact: I speak english so bad
 
 [![Static Badge](https://img.shields.io/badge/-Github%20Page-purple?style=for-the-badge&logo=astro&logoColor=white)](https://ldcmleo.github.io)
-[![Static Badge](https://img.shields.io/badge/-KockaPHP-red?style=for-the-badge&logo=php&logoColor=white)](https://github.com/ldcmleo/kockaphp)
 
 ### 
 
